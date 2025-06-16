@@ -26,7 +26,6 @@ This project demonstrates how to:
 | Windows 11 | SSH client host |
 | Ubuntu Server 22.04+ | SSH server |
 | OpenSSH | Secure remote shell & file transfer |
-| WinSCP | GUI file transfer via SFTP (optional) |
 
 ---
 
@@ -164,7 +163,6 @@ A working remote shell and secure file transfer setup between Windows 11 and Ubu
 * Ensure both VMs are on the same network segment.
 * Test connectivity with `ping linux_ip` from Windows.
 * Adjust firewall settings if needed.
-
 
 ---
 
